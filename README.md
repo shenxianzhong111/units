@@ -13,7 +13,7 @@
 
 >#### 仓库地址
 
-1. 
+1.  git clone git@github.com:shenxianzhong111/units.git
 
 >#### 更新说明
 
